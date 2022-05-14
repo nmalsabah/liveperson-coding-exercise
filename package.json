@@ -1,0 +1,10 @@
+{
+  "name": "liveperson-coding-exercise",
+  "version": "1.0.0",
+  "main": "code_exercise.js",
+  "author": "nicole",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "ws": "^8.6.0"
+  }
+}
